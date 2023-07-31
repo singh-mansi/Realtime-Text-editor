@@ -18,7 +18,6 @@ This web app is built using the following technologies and dependencies:
 ### Frontend (React.js):
 
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
-- [create-react-app](https://create-react-app.dev/): A tool to create a new React app with no build configuration.
 - [ws](https://www.npmjs.com/package/ws): WebSocket client for the frontend to communicate with the WebSocket server.
 
 ## Get started
