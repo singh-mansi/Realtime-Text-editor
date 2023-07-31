@@ -59,5 +59,8 @@ If I had more time and I was developing a real product, here are some potential 
 2. Add indicators to show which part of the text is being edited by which collaborator.
 3. Add Rich text support like formatting, images, etc to make the editor more versatile and useful.
 4. Perform comprehensive unit testing to ensure the app's functionality remains robust as it evolves.
+5. Add a text chat feature so collaborators can communicate in real-time through the application.
+6. Implement document versioning to help collaborators track changes overtime and revert back to different versions of the document if required.
+7. Create a more user friendly and accessible UI.
 
 
